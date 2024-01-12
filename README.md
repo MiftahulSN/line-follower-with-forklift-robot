@@ -18,4 +18,6 @@ The goal of this project is to pick up an objects in the container zone and drop
   * 7x Line Tracking Sensor TCRT5000 
 
 ## library used
-  * 
+  * Adafruit_GFX [link : https://github.com/adafruit/Adafruit-GFX-Library]
+  * Adafruit_SSD1306 [link : https://github.com/adafruit/Adafruit_SSD1306]
+  * Adafruit_VL53L0X [link : https://github.com/adafruit/Adafruit_VL53L0X]
